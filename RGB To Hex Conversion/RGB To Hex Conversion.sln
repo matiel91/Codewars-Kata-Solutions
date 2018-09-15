@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGB To Hex Conversion", "RGB To Hex Conversion\RGB To Hex Conversion.csproj", "{00C1A56C-1F4F-49F2-8F1E-C251204138EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGB To HEx Conversion.Core", "RGB To HEx Conversion.Core\RGB To HEx Conversion.Core.csproj", "{B913494A-E8B3-4266-A40A-98037E55900F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGB To Hex Conversion.Tests", "RGB To Hex Conversion.Tests\RGB To Hex Conversion.Tests.csproj", "{48F4E60B-3E44-45E0-80E7-6D7C3382D686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C1A56C-1F4F-49F2-8F1E-C251204138EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C1A56C-1F4F-49F2-8F1E-C251204138EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C1A56C-1F4F-49F2-8F1E-C251204138EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C1A56C-1F4F-49F2-8F1E-C251204138EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B913494A-E8B3-4266-A40A-98037E55900F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B913494A-E8B3-4266-A40A-98037E55900F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B913494A-E8B3-4266-A40A-98037E55900F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B913494A-E8B3-4266-A40A-98037E55900F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F4E60B-3E44-45E0-80E7-6D7C3382D686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F4E60B-3E44-45E0-80E7-6D7C3382D686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F4E60B-3E44-45E0-80E7-6D7C3382D686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F4E60B-3E44-45E0-80E7-6D7C3382D686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64895FE7-D25C-4B27-907D-6777E1E0F76C}
+	EndGlobalSection
+EndGlobal
