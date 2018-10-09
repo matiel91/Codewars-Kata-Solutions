@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBigerNumberWithTheSameD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBigerNumberWithTheSameDigits.Test", "NextBigerNumberWithTheSameDigits.Test\NextBigerNumberWithTheSameDigits.Test.csproj", "{F48EC8AE-506C-452D-9486-EB7921AC90D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBiggerNumberWFA", "NextBiggerNumberWFA\NextBiggerNumberWFA.csproj", "{EB37AB90-EA00-43C8-BA1A-3259D6A7CB55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F48EC8AE-506C-452D-9486-EB7921AC90D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F48EC8AE-506C-452D-9486-EB7921AC90D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F48EC8AE-506C-452D-9486-EB7921AC90D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB37AB90-EA00-43C8-BA1A-3259D6A7CB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB37AB90-EA00-43C8-BA1A-3259D6A7CB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB37AB90-EA00-43C8-BA1A-3259D6A7CB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB37AB90-EA00-43C8-BA1A-3259D6A7CB55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
