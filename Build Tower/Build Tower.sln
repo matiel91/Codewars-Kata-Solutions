@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build Tower", "Build Tower\Build Tower.csproj", "{5A48D267-C8D3-4B05-ADA1-04434EB8896D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata", "Kata\Kata.csproj", "{A487CAE3-4AD1-49F7-A666-3F9829638A89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata2.Tests", "Kata2.Tests\Kata2.Tests.csproj", "{0A85FB30-7A19-409E-9886-1FE332271173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A48D267-C8D3-4B05-ADA1-04434EB8896D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A48D267-C8D3-4B05-ADA1-04434EB8896D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A48D267-C8D3-4B05-ADA1-04434EB8896D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A48D267-C8D3-4B05-ADA1-04434EB8896D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A487CAE3-4AD1-49F7-A666-3F9829638A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A487CAE3-4AD1-49F7-A666-3F9829638A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A487CAE3-4AD1-49F7-A666-3F9829638A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A487CAE3-4AD1-49F7-A666-3F9829638A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A85FB30-7A19-409E-9886-1FE332271173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A85FB30-7A19-409E-9886-1FE332271173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A85FB30-7A19-409E-9886-1FE332271173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A85FB30-7A19-409E-9886-1FE332271173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8088C89-AB04-4470-9F73-2914E6D11921}
+	EndGlobalSection
+EndGlobal
